@@ -1,9 +1,6 @@
 # Diabetes Readmission Prediction - Project Report
 
-**Student Name:** Arpit Panwar 
-**Course:** AI in Healthcare  
-**Date:** November 3, 2025  
-**Project Title:** Predicting 30-Day Hospital Readmission for Diabetic Patients
+
 
 ---
 
@@ -348,7 +345,7 @@ Top 5 Most Important Features:
 
 ---
 
-**Report Prepared By:** Arpit Panwar 
-**Date:** November 3, 2025    
+**Report Prepared By:** Rajul Gupta, Himanshu Bisht, Arpit Panwar, Ujjwal Kharkhwal
+  
 
 ---
